@@ -9,7 +9,7 @@ do
     for (( q=0; q<=$COMMIT; q++ ))
     do
       NOW=$(date -d "$c days ago" -R)
-      echo $c$q >> index.pl
+      echo $c$q >> data
       git add -A && git commit --date="$NOW" -am "$c$q"
     done
   fi
