@@ -8,3 +8,5 @@ Fake-committer
 - git push -f origin master
 - put your github account
 - profit
+
+NOTICE : THIS IS A STUDENT PROJECT FOR RESEARCH. YOU USE IT AT YOUR OWN RISK. SPAMMING GITHUB IS NOT ALLOWED.
